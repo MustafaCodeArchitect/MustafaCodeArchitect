@@ -16,7 +16,7 @@
 
 <h2 align="left">💻 Competitive Programming</h2>
 
-- Actively solving problems on [**Codeforces**](https://codeforces.com/profile/Mustafa_Eslam)  
+- Actively solving problems on [**Codeforces**]  
 - Focused on improving my problem-solving skills and time complexity optimization  
 
 ---
@@ -41,7 +41,7 @@
 <h2 align="left">🏆 Achievements</h2>
 
 - Participated in ECPC 2024   
-- Participated in  contests, steadily improving my rank  
+- Participated in contests, steadily improving my rank  
 
 ---
 
@@ -60,4 +60,8 @@
   <a href="https://linkedin.com/in/mustafaeslam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="mailto:mostafaabdelmoze77@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>  
+
