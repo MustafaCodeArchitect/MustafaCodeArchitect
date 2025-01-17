@@ -9,35 +9,40 @@
 
 ✨ **Creating bugs since 2023**  
 📚 **Currently learning:** Advanced Data Structures and Algorithms  
-🎯 **Goals:** To become a top-rated competitive programmer on Codeforces 💪  
+🎯 **Goals:** To become Mr. Robot 🤖  
 🎲 **Fun fact:** My debugging skills level up after midnight!  
 
 ---
 
 <h2 align="left">💻 Competitive Programming</h2>
 
-- Actively solving problems on [**Codeforces**](https://codeforces.com/)  
-- Practicing algorithmic challenges on platforms like **LeetCode** and **CodeChef**  
+- Actively solving problems on [**Codeforces**](https://codeforces.com/profile/Mustafa_Eslam)  
 - Focused on improving my problem-solving skills and time complexity optimization  
 
 ---
 
 <h2 align="left">🛠️ My Tech Stack</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
+  <a href="https://en.cppreference.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo"  />
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="CLion logo"  />
+  <a href="https://www.jetbrains.com/clion/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="CLion logo" />
+  </a>
 </div>
 
 ---
 
 <h2 align="left">🏆 Achievements</h2>
 
+- Participated in ECPC 2024  
 - Solved **X+** problems on Codeforces  
 - Participated in **Y+** contests, steadily improving my rank  
-- Specialized in **graph algorithms, dynamic programming, and greedy approaches**  
 
 ---
 
@@ -48,19 +53,12 @@
 
 ---
 
-<h2 align="left">📂 Highlighted Repositories</h2>
-
-- [**Competitive Programming Practice**](#): My solutions to Codeforces and other platforms' problems  
-- [**Algorithm Implementations**](#): A collection of reusable code for standard algorithms and data structures  
-
----
-
 <h2 align="left">📫 Connect with Me</h2>
 <div align="left">
-  <a href="https://codeforces.com/profile/yourusername" target="_blank">
+  <a href="https://codeforces.com/profile/Mustafa_Eslam" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%2312100E.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://linkedin.com/in/mustafaeslam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
