@@ -40,9 +40,8 @@
 
 <h2 align="left">🏆 Achievements</h2>
 
-- Participated in ECPC 2024  
-- Solved **X+** problems on Codeforces  
-- Participated in **Y+** contests, steadily improving my rank  
+- Participated in ECPC 2024   
+- Participated in  contests, steadily improving my rank  
 
 ---
 
