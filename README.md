@@ -15,44 +15,6 @@
 
 ---
 
-<h2 align="left">💻 Competitive Programming</h2>
-
-- Actively solving problems on [**Codeforces**]  
-- Focused on improving my problem-solving skills and time complexity optimization  
-
----
-
-<h2 align="left">🛠️ My Tech Stack</h2>
-<div align="left">
-  <a href="https://en.cppreference.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  </a>
-  <img width="12" />
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.jetbrains.com/clion/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="CLion logo" />
-  </a>
-</div>
-
----
-
-<h2 align="left">🏆 Achievements</h2>
-
-- Participated in ECPC 2024   
-- Participated in contests, steadily improving my rank  
-
----
-
-<h2 align="left">🚀 What I'm Learning Next</h2>
-
-- Advanced topics like **Segment Trees, Fenwick Trees, and Dynamic Connectivity**  
-- Exploring **Math-heavy algorithms** for competitive programming  
-
----
-
 <h2 align="left">📫 Connect with Me</h2>
 <div align="left">
   <a href="https://codeforces.com/profile/Mustafa_Eslam" target="_blank">
