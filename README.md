@@ -1,6 +1,5 @@
 <h1 align="left">
-  Hey 👋 What's up?  
-  I'm Mustafa from Egypt, and I'm a Computer Science Student
+  Hey 👋 I'm Mustafa from Egypt, I'm a Computer Science     Student
 </h1>
 
 ---
