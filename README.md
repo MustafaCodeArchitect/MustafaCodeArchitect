@@ -5,15 +5,6 @@
 
 ---
 
-<h2 align="left">About Me</h2>
-
-✨ **Creating bugs since 2023**  
-📚 **Currently learning:** Advanced Data Structures and Algorithms  
-🎯 **Goals:** To become Mr. Robot 🤖  
-💻 **My codes speak for themselves**  
-🎲 **Fun fact:** My debugging skills level up after midnight!  
-
----
 
 <h2 align="left">📫 Connect with Me</h2>
 <div align="left">
