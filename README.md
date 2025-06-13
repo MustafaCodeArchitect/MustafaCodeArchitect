@@ -1,15 +1,13 @@
-<h1 align="left">
-  Hey 👋 My name is Mustafa, I'm a Computer Science Student from Egypt 
-</h1>
+# Welcome to my GitHub Page
 
----
-<h2 align="left">📫 Connect with Me</h2>
-<div align="left">
-  </a>
-  <a href="https://linkedin.com/in/mustafaeslam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mostafaabdelmoze77@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+I’m a CS student. I’m learning programming and want to be a Software Engineer in the future.
+
+- 🌱 Now I’m studying and improving my skills.
+
+<br>
+
+# You can reach me via:
+
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
+
+[1]: https://www.linkedin.com/in/mustafaeslam/
