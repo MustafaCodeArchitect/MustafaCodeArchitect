@@ -1,10 +1,6 @@
 # Welcome to my GitHub Page
 
-I’m a CS student. I’m learning programming and want to be a Software Engineer in the future.
-
-- 🌱 Now I’m studying and improving my skills.
-
-<br>
+I’m Mustafa Islam from Egypt, a CS student. 
 
 # You can reach me via:
 
